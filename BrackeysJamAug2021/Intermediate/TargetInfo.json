@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BrackeysJamAug2021",
+			"Path": "D:\\source\\repos\\BrackeysJamAug2021\\BrackeysJamAug2021\\Source\\BrackeysJamAug2021.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BrackeysJamAug2021Editor",
+			"Path": "D:\\source\\repos\\BrackeysJamAug2021\\BrackeysJamAug2021\\Source\\BrackeysJamAug2021Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

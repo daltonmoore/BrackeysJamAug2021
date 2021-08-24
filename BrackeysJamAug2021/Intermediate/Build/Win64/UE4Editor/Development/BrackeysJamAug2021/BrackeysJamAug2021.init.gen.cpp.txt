@@ -1,0 +1,3 @@
+D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\Definitions.BrackeysJamAug2021.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
