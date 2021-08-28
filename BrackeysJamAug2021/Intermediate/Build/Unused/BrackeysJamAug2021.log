@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\source\repos\BrackeysJamAug2021).
+  Building BrackeysJamAug2021Editor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] MyPlayerController.cpp
+    [2/4] UE4Editor-BrackeysJamAug2021-0007.lib
+       Creating library D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\UE4Editor-BrackeysJamAug2021-0007.lib and object D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\UE4Editor-BrackeysJamAug2021-0007.exp
+    [3/4] UE4Editor-BrackeysJamAug2021-0007.dll
+       Creating library D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\UE4Editor-BrackeysJamAug2021-0007.suppressed.lib and object D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\UE4Editor-BrackeysJamAug2021-0007.suppressed.exp
+    [4/4] BrackeysJamAug2021Editor.target
+  Total time in Parallel executor: 1.02 seconds
+  Total execution time: 1.53 seconds

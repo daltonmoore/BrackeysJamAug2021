@@ -13,5 +13,7 @@ UCLASS()
 class BRACKEYSJAMAUG2021_API ABrackeysJamAug2021GameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+public:
 	
 };

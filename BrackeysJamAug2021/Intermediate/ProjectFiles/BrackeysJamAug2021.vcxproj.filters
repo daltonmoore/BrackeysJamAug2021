@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BrackeysJamAug2021.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{6C5DC90F-EB4F-43B3-BEB3-18752B3426D0}</UniqueIdentifier>
+      <UniqueIdentifier>{60EF262F-D0DD-49C9-9125-93DA39D4BF72}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BrackeysJamAug2021.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{CBE388A3-9685-4AE5-BB04-610461BAAC2E}</UniqueIdentifier>
+      <UniqueIdentifier>{76EA1DB2-FE39-4168-BF15-C2618A3EF996}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\BrackeysJamAug2021">
-      <UniqueIdentifier>{B67FE5EA-7E00-47C6-80FD-C86CD37394E0}</UniqueIdentifier>
+      <UniqueIdentifier>{2D65CAFA-1A46-4560-AA6C-39F8B4124C85}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BrackeysJamAug2021\BrackeysJamAug2021.Build.cs">
       <Filter>Source\BrackeysJamAug2021</Filter>
@@ -39,6 +42,24 @@
       <Filter>Source\BrackeysJamAug2021</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\BrackeysJamAug2021\BrackeysJamAug2021GameModeBase.h">
+      <Filter>Source\BrackeysJamAug2021</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrackeysJamAug2021\DirtyObject.cpp">
+      <Filter>Source\BrackeysJamAug2021</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeysJamAug2021\DirtyObject.h">
+      <Filter>Source\BrackeysJamAug2021</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrackeysJamAug2021\MyCharacter.cpp">
+      <Filter>Source\BrackeysJamAug2021</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeysJamAug2021\MyCharacter.h">
+      <Filter>Source\BrackeysJamAug2021</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrackeysJamAug2021\MyPlayerController.cpp">
+      <Filter>Source\BrackeysJamAug2021</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeysJamAug2021\MyPlayerController.h">
       <Filter>Source\BrackeysJamAug2021</Filter>
     </ClInclude>
   </ItemGroup>
