@@ -1,7 +1,0 @@
-D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\Definitions.BrackeysJamAug2021.h
-D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Source\BrackeysJamAug2021\DirtyObject.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TriggerVolume.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
-D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Source\BrackeysJamAug2021\MyPlayerController.h
-D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Inc\BrackeysJamAug2021\MyPlayerController.generated.h
-D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Inc\BrackeysJamAug2021\DirtyObject.generated.h

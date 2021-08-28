@@ -1,0 +1,1508 @@
+﻿Log file open, 08/27/21 22:31:22
+LogInit: Display: Running engine for game: BrackeysJamAug2021
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178108
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: NVIDIA GeForce RTX 2080 Super
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Engine.ini]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Engine.ini]
+[2021.08.28-02.31.22:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Engine.ini]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Engine.ini]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.28-02.31.22:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Engine.ini]
+[2021.08.28-02.31.22:969][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Engine.ini]
+[2021.08.28-02.31.22:974][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.28-02.31.22:974][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.08.28-02.31.22:975][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.28-02.31.22:975][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.28-02.31.22:975][  0]LogHAL: Display: Platform has ~ 16 GB [16991240192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.28-02.31.22:975][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.28-02.31.22:975][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.28-02.31.22:975][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.28-02.31.22:976][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Config/Windows/Engine.ini]
+[2021.08.28-02.31.22:976][  0]LogInit: Computer: MSI
+[2021.08.28-02.31.22:976][  0]LogInit: User: dalto
+[2021.08.28-02.31.22:976][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.28-02.31.22:976][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.28-02.31.22:976][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.08.28-02.31.22:976][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.28-02.31.22:976][  0]LogMemory: Process Physical Memory: 119.89 MB used, 119.89 MB peak
+[2021.08.28-02.31.22:976][  0]LogMemory: Process Virtual Memory: 107.51 MB used, 107.51 MB peak
+[2021.08.28-02.31.22:976][  0]LogMemory: Physical Memory: 8542.38 MB used,  7661.73 MB free, 16204.11 MB total
+[2021.08.28-02.31.22:976][  0]LogMemory: Virtual Memory: 5177.41 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2021.08.28-02.31.22:980][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.28-02.31.23:016][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.28-02.31.23:018][  0]LogInit: Using OS detected language (en-US).
+[2021.08.28-02.31.23:018][  0]LogInit: Using OS detected locale (en-US).
+[2021.08.28-02.31.23:021][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.28-02.31.23:153][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.28-02.31.23:228][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.28-02.31.23:228][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.28-02.31.23:357][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.28-02.31.23:357][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.28-02.31.23:357][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.28-02.31.23:357][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.28-02.31.23:443][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_0)
+[2021.08.28-02.31.23:443][  0]LogD3D11RHI:       8010/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.28-02.31.23:517][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.08.28-02.31.23:517][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.28-02.31.23:519][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.28-02.31.23:519][  0]LogD3D11RHI:       0/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.28-02.31.23:559][  0]LogD3D11RHI:    3. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.08.28-02.31.23:559][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.28-02.31.23:559][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.28-02.31.23:564][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.28-02.31.23:564][  0]LogD3D11RHI:     GPU DeviceId: 0x1e93 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.28-02.31.23:564][  0]LogWindows: EnumDisplayDevices:
+[2021.08.28-02.31.23:564][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.28-02.31.23:565][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.28-02.31.23:565][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.28-02.31.23:565][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Super' (P:1 D:1)
+[2021.08.28-02.31.23:565][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:1)
+[2021.08.28-02.31.23:565][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.08.28-02.31.23:565][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.08.28-02.31.23:566][  0]LogWindows:    7. 'DisplayLink USB Device' (P:0 D:0)
+[2021.08.28-02.31.23:566][  0]LogWindows:    8. 'DisplayLink USB Device' (P:0 D:0)
+[2021.08.28-02.31.23:566][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.28-02.31.23:566][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Super
+[2021.08.28-02.31.23:566][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.08.28-02.31.23:566][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.08.28-02.31.23:566][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.08.28-02.31.23:634][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.28-02.31.23:634][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.28-02.31.23:634][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.28-02.31.23:651][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.28-02.31.23:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.28-02.31.23:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.28-02.31.23:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.28-02.31.23:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.28-02.31.23:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.28-02.31.23:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.28-02.31.23:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.28-02.31.23:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.28-02.31.23:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.28-02.31.23:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.28-02.31.23:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.28-02.31.23:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.28-02.31.23:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.28-02.31.24:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.28-02.31.24:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.28-02.31.24:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.28-02.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.28-02.31.24:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.28-02.31.24:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.28-02.31.24:039][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.28-02.31.24:045][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.28-02.31.24:093][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Intermediate/Shaders/WorkingDirectory/2596/).
+[2021.08.28-02.31.24:093][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dalto/AppData/Local/Temp/UnrealShaderWorkingDir/68BEE4D5453FF2424DDDE2A9C4BFC55E/'.
+[2021.08.28-02.31.24:093][  0]LogXGEController: Cleaning working directory: C:/Users/dalto/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.08.28-02.31.24:093][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.08.28-02.31.24:094][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.28-02.31.24:094][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.28-02.31.24:726][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.28-02.31.24:764][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/dalto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.08.28-02.31.24:764][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dalto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.08.28-02.31.24:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.28-02.31.24:764][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.28-02.31.24:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.28-02.31.24:764][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.28-02.31.24:773][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.28-02.31.24:773][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.28-02.31.24:773][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.28-02.31.24:775][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dalto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.28-02.31.24:775][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.28-02.31.24:775][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.28-02.31.24:816][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.28-02.31.24:816][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.28-02.31.24:842][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.08.28-02.31.25:027][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.28-02.31.25:116][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.28-02.31.25:116][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.28-02.31.25:116][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.28-02.31.25:116][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.28-02.31.25:116][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.28-02.31.25:128][  0]LogNetVersion: BrackeysJamAug2021 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3832355746)
+[2021.08.28-02.31.25:461][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000011FE31042C0), frame # 0
+[2021.08.28-02.31.25:461][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000011FE3027B00), frame # 0
+[2021.08.28-02.31.25:462][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000011FE3091E00), frame # 0
+[2021.08.28-02.31.25:500][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.032458 seconds
+[2021.08.28-02.31.25:503][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.08.28-02.31.25:503][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.08.28-02.31.25:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.28-02.31.25:781][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.28-02.31.25:784][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.28-02.31.25:854][  0]SourceControl: Source control is disabled
+[2021.08.28-02.31.25:854][  0]SourceControl: Source control is disabled
+[2021.08.28-02.31.25:856][  0]SourceControl: Source control is disabled
+[2021.08.28-02.31.25:858][  0]SourceControl: Source control is disabled
+[2021.08.28-02.31.25:864][  0]SourceControl: Source control is disabled
+[2021.08.28-02.31.26:073][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.28-02.31.26:090][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.28-02.31.26:090][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.28-02.31.26:131][  0]LogOcInput: OculusInput pre-init called
+[2021.08.28-02.31.26:140][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.28-02.31.26:140][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.28-02.31.26:185][  0]LogEngine: Initializing Engine...
+[2021.08.28-02.31.26:186][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.28-02.31.26:186][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.28-02.31.26:187][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.28-02.31.26:275][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.28-02.31.26:281][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.28-02.31.26:281][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000011FE5DCBC00), frame # 0
+[2021.08.28-02.31.26:281][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000011FE5DC7B00), frame # 0
+[2021.08.28-02.31.26:297][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.28-02.31.26:297][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.28-02.31.26:297][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.28-02.31.26:297][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.28-02.31.26:297][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.28-02.31.26:297][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.28-02.31.26:297][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.28-02.31.26:297][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.28-02.31.26:297][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.28-02.31.26:297][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.28-02.31.26:313][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.28-02.31.26:314][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.28-02.31.26:335][  0]LogAudioMixer: Display: Using Audio Device Headphones (Dalton’s AirPods #2 Stereo)
+[2021.08.28-02.31.26:337][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.28-02.31.26:339][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.28-02.31.26:339][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.28-02.31.26:340][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.28-02.31.26:341][  0]LogInit: FAudioDevice initialized.
+[2021.08.28-02.31.26:341][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.28-02.31.26:378][  0]LogDerivedDataCache: Saved boot cache 0.04s 76MB C:/Users/dalto/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.08.28-02.31.26:378][  0]LogInit: Texture streaming: Enabled
+[2021.08.28-02.31.26:391][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.28-02.31.26:391][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.28-02.31.26:394][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.28-02.31.26:435][  0]LogInit: Transaction tracking system initialized
+[2021.08.28-02.31.26:452][  0]BlueprintLog: New page: Editor Load
+[2021.08.28-02.31.26:509][  0]LocalizationService: Localization service is disabled
+[2021.08.28-02.31.26:626][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.08.28-02.31.26:626][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.28-02.31.26:640][  0]LogFileCache: Scanning file cache for directory 'D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Content/' took 0.00s
+[2021.08.28-02.31.26:885][  0]SourceControl: Source control is disabled
+[2021.08.28-02.31.26:885][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.289
+[2021.08.28-02.31.26:885][  0]Cmd: MAP LOAD FILE="D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.28-02.31.26:885][  0]LightingResults: New page: Lighting Build
+[2021.08.28-02.31.26:886][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.28-02.31.26:886][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.28-02.31.26:886][  0]MapCheck: New page: Map Check
+[2021.08.28-02.31.26:886][  0]LightingResults: New page: Lighting Build
+[2021.08.28-02.31.26:895][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000011FE5DCBC00), frame # 0
+[2021.08.28-02.31.26:895][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000011FE5DC7B00), frame # 0
+[2021.08.28-02.31.26:896][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.28-02.31.27:086][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.28-02.31.27:086][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000011FDAAAE600), frame # 0
+[2021.08.28-02.31.27:086][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000011FD652EFC0), frame # 0
+[2021.08.28-02.31.27:095][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.28-02.31.27:106][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.28-02.31.27:106][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.28-02.31.27:106][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2021.08.28-02.31.27:106][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.221
+[2021.08.28-02.31.27:108][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.512
+[2021.08.28-02.31.27:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.28-02.31.27:242][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.28-02.31.27:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.28-02.31.27:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.28-02.31.27:259][  0]LogCollectionManager: Loaded 0 collections in 0.001741 seconds
+[2021.08.28-02.31.27:269][  0]LogFileCache: Scanning file cache for directory 'D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Saved/Collections/' took 0.00s
+[2021.08.28-02.31.27:269][  0]LogFileCache: Scanning file cache for directory 'D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Content/Developers/dalto/Collections/' took 0.00s
+[2021.08.28-02.31.27:269][  0]LogFileCache: Scanning file cache for directory 'D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/Content/Collections/' took 0.00s
+[2021.08.28-02.31.27:269][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3431 classes and 823 folders.
+[2021.08.28-02.31.27:271][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.28-02.31.27:312][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.28-02.31.27:315][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.08.28-02.31.27:413][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.28-02.31.27:415][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.28-02.31.27:513][  0]LogRenderer: Reallocating scene render targets to support 1132x628 Format 10 NumSamples 1 (Frame:1).
+[2021.08.28-02.31.27:636][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.08.28-02.31.27:636][  0]LogLoad: (Engine Initialization) Total time: 6.04 seconds
+[2021.08.28-02.31.27:636][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.28-02.31.27:672][  0]LogAssetRegistry: Asset discovery search completed in 2.8309 seconds
+[2021.08.28-02.31.27:675][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.08.28-02.31.27:676][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.28-02.31.27:729][  1]LogRenderer: Reallocating scene render targets to support 1132x644 Format 10 NumSamples 1 (Frame:2).
+[2021.08.28-02.31.32:768][ 19]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.28-02.31.57:246][427]Candidate modules for hot reload:
+[2021.08.28-02.31.57:246][427]  BrackeysJamAug2021
+[2021.08.28-02.31.57:247][427]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BrackeysJamAug2021,2446 BrackeysJamAug2021Editor Win64 Development -Project="D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/BrackeysJamAug2021.uproject" "D:/source/repos/BrackeysJamAug2021/BrackeysJamAug2021/BrackeysJamAug2021.uproject"  -IgnoreJunk]
+[2021.08.28-02.31.57:253][427]Warning: Starting HotReload took  0.0s.
+[2021.08.28-02.31.58:979][553]CompilerResultsLog: New page: Compilation - Aug 27, 2021, 6:31:58 PM
+[2021.08.28-02.31.58:979][553]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\source\repos\BrackeysJamAug2021).
+[2021.08.28-02.31.58:979][553]CompilerResultsLog: Building BrackeysJamAug2021Editor...
+[2021.08.28-02.31.58:979][553]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.08.28-02.31.58:979][553]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.08.28-02.31.58:979][553]CompilerResultsLog:   [1/4] DirtyObject.cpp
+[2021.08.28-02.31.58:979][553]CompilerResultsLog:   [2/4] UE4Editor-BrackeysJamAug2021-2446.lib
+[2021.08.28-02.31.58:979][553]CompilerResultsLog:      Creating library D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\UE4Editor-BrackeysJamAug2021-2446.lib and object D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\UE4Editor-BrackeysJamAug2021-2446.exp
+[2021.08.28-02.31.58:979][553]CompilerResultsLog:   [3/4] UE4Editor-BrackeysJamAug2021-2446.dll
+[2021.08.28-02.31.58:979][553]CompilerResultsLog:      Creating library D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\UE4Editor-BrackeysJamAug2021-2446.suppressed.lib and object D:\source\repos\BrackeysJamAug2021\BrackeysJamAug2021\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJamAug2021\UE4Editor-BrackeysJamAug2021-2446.suppressed.exp
+[2021.08.28-02.31.58:979][553]CompilerResultsLog:   [4/4] BrackeysJamAug2021Editor.target
+[2021.08.28-02.31.58:979][553]CompilerResultsLog: Total time in Parallel executor: 1.06 seconds
+[2021.08.28-02.31.58:979][553]CompilerResultsLog: Total execution time: 1.65 seconds
+[2021.08.28-02.31.58:979][553]LogMainFrame: MainFrame: Module compiling took 1.738 seconds
+[2021.08.28-02.31.59:242][553]LogContentBrowser: Native class hierarchy updated for 'BrackeysJamAug2021' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.08.28-02.31.59:242][553]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.08.28-02.31.59:286][553]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 3431 classes and 823 folders.
+[2021.08.28-02.31.59:286][553]Display: HotReload took  2.1s.
+[2021.08.28-02.31.59:296][553]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.28-02.32.04:592][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.28-02.32.04:604][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.28-02.32.04:604][ 38]PIE: New page: PIE session: TopDownExampleMap (Aug 27, 2021, 6:32:04 PM)
+[2021.08.28-02.32.04:605][ 38]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.28-02.32.04:605][ 38]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.28-02.32.04:605][ 38]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.28-02.32.04:618][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012161s)
+[2021.08.28-02.32.04:619][ 38]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.28-02.32.04:619][ 38]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000011F8907BE00), frame # 2038
+[2021.08.28-02.32.04:619][ 38]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000011FE25AFEC0), frame # 2038
+[2021.08.28-02.32.04:619][ 38]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2021.08.28-02.32.04:619][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013715s)
+[2021.08.28-02.32.04:631][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.08.28-02.32.04:633][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.28-02.32.04:633][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.28-02.32.04:633][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.28-02.32.04:633][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.28-02.32.04:633][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.28-02.32.04:633][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.28-02.32.04:633][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.28-02.32.04:633][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.28-02.32.04:633][ 38]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.28-02.32.04:633][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.28-02.32.04:635][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.28-02.32.04:635][ 38]LogAudioMixer: Display: 1: FrontRight
+[2021.08.28-02.32.04:645][ 38]LogAudioMixer: Display: Using Audio Device Headphones (Dalton’s AirPods #2 Stereo)
+[2021.08.28-02.32.04:645][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.28-02.32.04:645][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.28-02.32.04:645][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.28-02.32.04:645][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.28-02.32.04:657][ 38]LogInit: FAudioDevice initialized.
+[2021.08.28-02.32.04:661][ 38]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.28-02.32.04:664][ 38]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-22.32.04
+[2021.08.28-02.32.04:664][ 38]LogWorld: Bringing up level for play took: 0.001578
+[2021.08.28-02.32.04:664][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.08.28-02.32.04:689][ 38]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.08.28-02.32.04:689][ 38]LogTemp: Warning: Pawn Name: TopDownCharacter
+[2021.08.28-02.32.04:689][ 38]PIE: Server logged in
+[2021.08.28-02.32.04:690][ 38]PIE: Play in editor total start time 0.09 seconds.
+[2021.08.28-02.32.13:558][842]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:567][843]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:574][844]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:583][845]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:591][846]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:599][847]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:607][848]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:616][849]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:649][850]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:657][851]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:665][852]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:673][853]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:682][854]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:690][855]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:699][856]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:707][857]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:715][858]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:723][859]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:732][860]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:775][861]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:783][862]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:792][863]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:800][864]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:808][865]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:816][866]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:825][867]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:834][868]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:842][869]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:850][870]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:858][871]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:867][872]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:899][873]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:907][874]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:915][875]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:923][876]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:931][877]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:940][878]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:948][879]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:957][880]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:964][881]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:973][882]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.13:981][883]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:022][884]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:030][885]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:039][886]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:047][887]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:055][888]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:063][889]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:071][890]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:080][891]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:088][892]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:097][893]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:105][894]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:113][895]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:148][896]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:157][897]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:165][898]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:173][899]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:182][900]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:190][901]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:198][902]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:207][903]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:215][904]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:223][905]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:232][906]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:273][907]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:281][908]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:289][909]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:298][910]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:306][911]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:314][912]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:323][913]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:331][914]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:339][915]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:348][916]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:356][917]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:364][918]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:398][919]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:406][920]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:415][921]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:423][922]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:432][923]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:440][924]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:448][925]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:457][926]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:465][927]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:473][928]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:482][929]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:522][930]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:530][931]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:538][932]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:546][933]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:555][934]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:563][935]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:571][936]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:580][937]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:588][938]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:597][939]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:605][940]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:614][941]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:645][942]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:653][943]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:662][944]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:669][945]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:678][946]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:686][947]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:695][948]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:703][949]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:711][950]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:720][951]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:728][952]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:736][953]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:767][954]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:776][955]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:784][956]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:792][957]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:800][958]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:809][959]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:817][960]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:825][961]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:833][962]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:842][963]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:850][964]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:892][965]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:900][966]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:908][967]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:917][968]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:925][969]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:933][970]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:942][971]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:950][972]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.14:960][973]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:004][974]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:011][975]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:019][976]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:027][977]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:035][978]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:077][979]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:085][980]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:093][981]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:102][982]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:110][983]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:119][984]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:127][985]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:136][986]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:143][987]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:151][988]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:160][989]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:168][990]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:200][991]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:207][992]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:216][993]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:224][994]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:232][995]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:240][996]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:249][997]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:257][998]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:265][999]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:274][  0]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:282][  1]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:326][  2]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:366][  3]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:374][  4]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:383][  5]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:391][  6]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:399][  7]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:407][  8]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:416][  9]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:449][ 10]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:457][ 11]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:466][ 12]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:473][ 13]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:482][ 14]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:491][ 15]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:500][ 16]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:507][ 17]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:516][ 18]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:524][ 19]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:532][ 20]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:571][ 21]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:581][ 22]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:589][ 23]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:598][ 24]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:606][ 25]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:614][ 26]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:622][ 27]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:631][ 28]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:640][ 29]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:647][ 30]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:694][ 31]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:702][ 32]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:710][ 33]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:718][ 34]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:728][ 35]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:735][ 36]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:744][ 37]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:753][ 38]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:760][ 39]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:768][ 40]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:776][ 41]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:818][ 42]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:825][ 43]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:834][ 44]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:842][ 45]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:850][ 46]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:859][ 47]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:867][ 48]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:875][ 49]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:884][ 50]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:892][ 51]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:900][ 52]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:942][ 53]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:950][ 54]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:959][ 55]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:967][ 56]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:975][ 57]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:983][ 58]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.15:992][ 59]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:000][ 60]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:008][ 61]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:017][ 62]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:026][ 63]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:034][ 64]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:065][ 65]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:074][ 66]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:082][ 67]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:091][ 68]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:099][ 69]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:107][ 70]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:116][ 71]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:125][ 72]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:133][ 73]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:141][ 74]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:150][ 75]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:190][ 76]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:198][ 77]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:207][ 78]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:214][ 79]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:223][ 80]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:231][ 81]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:240][ 82]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:248][ 83]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:257][ 84]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:264][ 85]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:273][ 86]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:281][ 87]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:290][ 88]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:298][ 89]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:307][ 90]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:315][ 91]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:323][ 92]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:332][ 93]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:374][ 94]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:383][ 95]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:391][ 96]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:400][ 97]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:408][ 98]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:416][ 99]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:425][100]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:433][101]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:442][102]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:449][103]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:459][104]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:466][105]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:499][106]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:507][107]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:515][108]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:524][109]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:532][110]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:541][111]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:549][112]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:557][113]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:565][114]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:573][115]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:582][116]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:625][117]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:634][118]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:642][119]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:651][120]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:659][121]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:667][122]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:675][123]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:683][124]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:692][125]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:700][126]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:708][127]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:716][128]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:751][129]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:758][130]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:767][131]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:775][132]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:783][133]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:792][134]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:800][135]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:809][136]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:817][137]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:826][138]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:834][139]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:876][140]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:883][141]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:892][142]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:900][143]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:909][144]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:917][145]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:925][146]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:934][147]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:942][148]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:951][149]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:959][150]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:967][151]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.16:998][152]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:006][153]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:015][154]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:024][155]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:032][156]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:040][157]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:048][158]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:056][159]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:064][160]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:073][161]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:081][162]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:122][163]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:130][164]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:138][165]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:146][166]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:155][167]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:163][168]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:171][169]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:179][170]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:187][171]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:196][172]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:204][173]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:212][174]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:221][175]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:229][176]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:238][177]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:246][178]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:255][179]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:262][180]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:304][181]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:312][182]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:321][183]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:329][184]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:337][185]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:346][186]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:354][187]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:362][188]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:371][189]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:379][190]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:387][191]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:396][192]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:404][193]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:413][194]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:421][195]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:430][196]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:438][197]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:445][198]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:494][199]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:502][200]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:511][201]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:519][202]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:527][203]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:536][204]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:544][205]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:552][206]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:560][207]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:569][208]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:577][209]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:587][210]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:621][211]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:630][212]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:638][213]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:646][214]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:654][215]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:662][216]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:671][217]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:680][218]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:688][219]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:696][220]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:704][221]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:712][222]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:721][223]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:730][224]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:738][225]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:747][226]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:754][227]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:763][228]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:808][229]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:816][230]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:824][231]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:833][232]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:841][233]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:849][234]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:858][235]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:866][236]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:875][237]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:883][238]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:891][239]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:900][240]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:932][241]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:941][242]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:949][243]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:958][244]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:966][245]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:974][246]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:982][247]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:991][248]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.17:999][249]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:007][250]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:016][251]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:058][252]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:066][253]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:074][254]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:083][255]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:092][256]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:099][257]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:107][258]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:116][259]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:125][260]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:133][261]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:142][262]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:150][263]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:182][264]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:191][265]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:199][266]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:207][267]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:216][268]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:224][269]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:232][270]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:241][271]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:249][272]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:257][273]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:266][274]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:306][275]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:314][276]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:323][277]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:331][278]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:338][279]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:347][280]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:355][281]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:364][282]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:372][283]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:381][284]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:389][285]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:397][286]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:428][287]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:436][288]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:444][289]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:453][290]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:461][291]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:469][292]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:477][293]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:486][294]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:495][295]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:502][296]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:510][297]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:519][298]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:549][299]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:557][300]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:566][301]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:574][302]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:583][303]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:591][304]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:599][305]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:608][306]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:615][307]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:624][308]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:632][309]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:672][310]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:680][311]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:688][312]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:697][313]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:705][314]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:714][315]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:722][316]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:730][317]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:738][318]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:747][319]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:755][320]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:763][321]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:796][322]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:805][323]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:813][324]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:821][325]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:830][326]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:838][327]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:846][328]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:855][329]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:863][330]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:871][331]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:879][332]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:919][333]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:928][334]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:936][335]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:944][336]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:953][337]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:961][338]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:969][339]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:978][340]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:986][341]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.18:994][342]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:002][343]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:043][344]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:051][345]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:059][346]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:067][347]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:076][348]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:085][349]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:093][350]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:101][351]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:109][352]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:117][353]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:126][354]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:134][355]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:168][356]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:177][357]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:185][358]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:193][359]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:202][360]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:210][361]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:219][362]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:227][363]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:236][364]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:243][365]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:252][366]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:292][367]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:301][368]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:309][369]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:318][370]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:326][371]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:334][372]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:342][373]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:351][374]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:359][375]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:368][376]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:375][377]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:384][378]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:392][379]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:401][380]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:409][381]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:417][382]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:426][383]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:434][384]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:443][385]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:451][386]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:478][387]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:486][388]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:495][389]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:503][390]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:511][391]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:520][392]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:528][393]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:536][394]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:545][395]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:553][396]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:561][397]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:570][398]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:604][399]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:613][400]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:620][401]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:629][402]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:637][403]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:646][404]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:654][405]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:662][406]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:671][407]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:679][408]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:726][409]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:736][410]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:745][411]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:753][412]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:761][413]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:769][414]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:778][415]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:786][416]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:794][417]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:803][418]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:811][419]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:820][420]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:828][421]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:836][422]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:845][423]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:853][424]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:861][425]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:870][426]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:907][427]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:915][428]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:924][429]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:932][430]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:939][431]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:948][432]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:956][433]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:964][434]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:973][435]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:981][436]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:990][437]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.19:998][438]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:033][439]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:040][440]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:049][441]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:057][442]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:066][443]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:074][444]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:082][445]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:090][446]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:098][447]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:107][448]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:115][449]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:158][450]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:166][451]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:175][452]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:183][453]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:192][454]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:199][455]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:208][456]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:216][457]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:225][458]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:234][459]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:241][460]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:249][461]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:282][462]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:290][463]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:299][464]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:307][465]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:314][466]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:323][467]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:331][468]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:340][469]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:348][470]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:357][471]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:365][472]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:405][473]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:413][474]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:422][475]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:430][476]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:439][477]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:447][478]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:455][479]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:464][480]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:472][481]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:481][482]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:489][483]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:497][484]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:530][485]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:539][486]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:547][487]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:555][488]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:564][489]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:572][490]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:581][491]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:589][492]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:597][493]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:605][494]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:614][495]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:657][496]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:665][497]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:673][498]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:682][499]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:690][500]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:699][501]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:707][502]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:715][503]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:723][504]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:732][505]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:740][506]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:749][507]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:782][508]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:791][509]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:798][510]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:807][511]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:815][512]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:824][513]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:832][514]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:841][515]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:849][516]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:857][517]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:866][518]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:906][519]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:915][520]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:922][521]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:930][522]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:939][523]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:947][524]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:956][525]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:964][526]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:973][527]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:980][528]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:989][529]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.20:997][530]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:031][531]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:039][532]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:048][533]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:056][534]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:064][535]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:075][536]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:083][537]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:090][538]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:098][539]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:106][540]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:115][541]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:156][542]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:164][543]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:172][544]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:180][545]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:189][546]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:197][547]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:205][548]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:214][549]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:222][550]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:231][551]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:239][552]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:248][553]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:281][554]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:289][555]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:296][556]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:305][557]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:313][558]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:322][559]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:330][560]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:338][561]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:346][562]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:355][563]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:363][564]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:405][565]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:413][566]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:422][567]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:429][568]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:438][569]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:446][570]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:455][571]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:463][572]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:471][573]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:480][574]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:488][575]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:497][576]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:529][577]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:536][578]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:546][579]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:554][580]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:563][581]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:571][582]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:579][583]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:587][584]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:595][585]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:603][586]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:612][587]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:655][588]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:663][589]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:672][590]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:680][591]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:689][592]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:697][593]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:705][594]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:713][595]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:721][596]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:730][597]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:775][598]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:787][599]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:795][600]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:803][601]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:811][602]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:819][603]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:827][604]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:836][605]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:844][606]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:852][607]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:861][608]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:902][609]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:910][610]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:918][611]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:927][612]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:935][613]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:943][614]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:952][615]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:960][616]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:968][617]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:976][618]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:985][619]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.21:995][620]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.22:093][632]LogTemp: Warning: Can interact with dirty object
+[2021.08.28-02.32.22:128][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.28-02.32.22:128][632]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.28-02.32.22:129][632]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.28-02.32.22:129][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.28-02.32.22:137][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.28-02.32.22:138][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.28-02.32.22:160][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
