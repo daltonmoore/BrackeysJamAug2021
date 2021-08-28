@@ -18,6 +18,9 @@ public:
 	AMyTriggerVolume();
 
 	AMyCharacter* Player;
+
+	UPROPERTY(EditAnywhere)
+	AActor* DirtyObject;
 	
 protected:
 	virtual void BeginPlay() override;

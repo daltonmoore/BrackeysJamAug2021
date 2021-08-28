@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeBrackeysJamAug2021_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xDFF2601E,
+				0xB5B8018E,
 				0x08C1D175,
 				METADATA_PARAMS(nullptr, 0)
 			};

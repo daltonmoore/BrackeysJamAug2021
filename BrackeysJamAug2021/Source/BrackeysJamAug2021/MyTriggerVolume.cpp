@@ -7,6 +7,7 @@
 
 AMyTriggerVolume::AMyTriggerVolume()
 {
+	//PrintString("Attached things");
 	OnActorBeginOverlap.AddDynamic(this, &AMyTriggerVolume::OnOverlapBegin);
 	OnActorEndOverlap.AddDynamic(this, &AMyTriggerVolume::OnOverlapEnd);
 }
@@ -22,6 +23,7 @@ void AMyTriggerVolume::OnOverlapBegin(AActor* OverlappedActor, AActor* OtherActo
 	{
 		PrintString("You can now clean the item");
 		Player->bInRangeOfObject = true;
+		Player->DirtyObject = DirtyObject;
 	}
 	PrintString("Overlap Begin");
 }

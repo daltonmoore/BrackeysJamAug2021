@@ -15,7 +15,11 @@ public:
 	// Sets default values for this character's properties
 	AMyCharacter();
 
+	UPROPERTY(BlueprintReadWrite)
 	bool bInRangeOfObject;
+
+	UPROPERTY(BlueprintReadWrite)
+	AActor* DirtyObject;
 
 protected:
 	// Called when the game starts or when spawned

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BrackeysJamAug2021.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{49174328-3AA3-42D2-A5E1-E3F7E621244A}</UniqueIdentifier>
+      <UniqueIdentifier>{385439A7-DF3F-4901-8878-3D8591104216}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BrackeysJamAug2021.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{0B60D5FC-4982-42B9-BDD5-2DBEA8EBEFEC}</UniqueIdentifier>
+      <UniqueIdentifier>{FD0AEA93-3812-474B-ABE0-7188EA41F130}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BrackeysJamAug2021">
-      <UniqueIdentifier>{723CFA4C-1359-452F-8F2B-028014F1963B}</UniqueIdentifier>
+      <UniqueIdentifier>{95B918D3-C319-49AB-AAC0-7B76F3067F4F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BrackeysJamAug2021\BrackeysJamAug2021.Build.cs">
       <Filter>Source\BrackeysJamAug2021</Filter>

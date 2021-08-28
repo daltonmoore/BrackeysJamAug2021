@@ -129,6 +129,11 @@ void EmptyLinkFunctionForGeneratedCodeMyTriggerVolume() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DirtyObject_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_DirtyObject;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -149,6 +154,16 @@ void EmptyLinkFunctionForGeneratedCodeMyTriggerVolume() {}
 		{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyTriggerVolume_Statics::NewProp_DirtyObject_MetaData[] = {
+		{ "Category", "MyTriggerVolume" },
+		{ "ModuleRelativePath", "MyTriggerVolume.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMyTriggerVolume_Statics::NewProp_DirtyObject = { "DirtyObject", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyTriggerVolume, DirtyObject), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMyTriggerVolume_Statics::NewProp_DirtyObject_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMyTriggerVolume_Statics::NewProp_DirtyObject_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMyTriggerVolume_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyTriggerVolume_Statics::NewProp_DirtyObject,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMyTriggerVolume_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMyTriggerVolume>::IsAbstract,
 	};
@@ -158,11 +173,11 @@ void EmptyLinkFunctionForGeneratedCodeMyTriggerVolume() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		FuncInfo,
-		nullptr,
+		Z_Construct_UClass_AMyTriggerVolume_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		UE_ARRAY_COUNT(FuncInfo),
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_AMyTriggerVolume_Statics::PropPointers),
 		0,
 		0x009000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_AMyTriggerVolume_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AMyTriggerVolume_Statics::Class_MetaDataParams))
@@ -176,7 +191,7 @@ void EmptyLinkFunctionForGeneratedCodeMyTriggerVolume() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMyTriggerVolume, 3687332811);
+	IMPLEMENT_CLASS(AMyTriggerVolume, 235308819);
 	template<> BRACKEYSJAMAUG2021_API UClass* StaticClass<AMyTriggerVolume>()
 	{
 		return AMyTriggerVolume::StaticClass();
